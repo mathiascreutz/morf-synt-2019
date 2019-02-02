@@ -1,2 +1,2 @@
 # morf-synt-2019
-Morphology and Syntax Course, Spring 2019
+Notebook files and materials for Morphology and Syntax Course (KIK-LG102), Spring 2019
